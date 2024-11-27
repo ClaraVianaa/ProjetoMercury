@@ -33,7 +33,7 @@ Este projeto foi desenvolvido por:
 - **Gabrielle Confessone Drumond**:
   - Desenvolvimento back-end (PHP, integração com banco de dados MySQL).
 
-  ##📝 Como Citar
+  ## 📝 Como Citar
   ADRIELLY de Paula Pereira, CLARA Lima Viana, GABRIELLE Confessone Drumond. Mercury: Gerenciador de Hobbies. 2024. Disponível em: https://github.com/usuario/projeto. Acesso em: 26 nov. 2024.
 
   ## 📚 Apêndice
