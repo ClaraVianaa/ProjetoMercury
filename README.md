@@ -9,7 +9,7 @@ Site desenvolvido para ajudar pessoas a gerenciar hobbies que podem contribuir n
 ### Pré-requisitos:
 - **PHP** (versão 8.x)
 - **MySQL** (para o banco de dados)
-- **Xampp** 
+- **Xampp** (versão 8.3.12)
 
 ### Instruções para o back-end:  
 - banco de dados com o nome 'mercury'
