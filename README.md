@@ -3,7 +3,7 @@ Site desenvolvido para ajudar pessoas a gerenciar hobbies que podem contribuir n
 
 ## 📸 Capturas de Tela
 ![Página Inicial](imagem-inicial.png)
-![Modal de Hobbies](docs/images/modal-hobbies.png)
+![Modal de Hobbies](organizer.png)
 
 ## 🚀 Como Executar o Projeto
 ### Pré-requisitos:
