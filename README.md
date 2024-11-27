@@ -16,7 +16,7 @@ Site desenvolvido para ajudar pessoas a gerenciar hobbies que podem contribuir n
 - administrador com senha 123
 
 ### Instruções para o front-end:
--abra o arquivo index.htmlno navegador
+-abra o arquivo index.html no navegador
 
 ## 👩‍💻 Autores
 Este projeto foi desenvolvido por:
