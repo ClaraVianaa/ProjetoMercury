@@ -37,7 +37,7 @@ Este projeto foi desenvolvido por:
 ADRIELLY de Paula Pereira, CLARA Lima Viana, GABRIELLE Confessone Drumond. Mercury: Gerenciador de Hobbies. 2024. Disponível em: https://github.com/ClaraVianaa/ProjetoMercury/blob/main/README.md . Acesso em: 26 nov. 2024.
 
 ## 📚 Artigo
-Para o embase do projeto, confira  [Artigo do projeto](TCCparteescrita.docx ).
+Para o embase do projeto, confira  [Artigo do projeto](TCC parte escrita.docx ).
 
 ## 📚 Apêndice
 Para mais detalhes, consulte o [Apêndice do projeto](APENDICE.pdf).
